@@ -1,4 +1,5 @@
-"""Provide the primary functions."""
+"""Provide the primary functions.
+The main source code goes here."""
 
 
 def canvas(with_attribution=True):
